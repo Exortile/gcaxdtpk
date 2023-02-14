@@ -4,7 +4,7 @@ This repo contains a Python script that generates a GameCube DTPK sound bank fro
 
 ## Dependencies
 
-* Nintendo's dsptool.dll **(I cannot pass this library through this repository. Find your own way of obtaining this.)**
+* Nintendo's dsptool.dll. *(NOTE: If you're running Python as 64-bit, the .dll has to be 64-bit as well and vice versa.)* **[Also, I cannot pass this library through this repository. Find your own way of obtaining this.]**
 * python3
 
 ## Usage
